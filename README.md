@@ -142,23 +142,6 @@ Outputs:
 
 ---
 
-# Repository Structure
-
-```text
-MOSAIC/
-│
-├── MOSAIC_ENCODER.py
-├── MOSAIC_DECODER.py
-├── datasets/
-├── benchmarks/
-├── figures/
-├── supplementary/
-├── paper/
-├── requirements.txt
-└── README.md
-```
-
----
 
 # Research Context
 
