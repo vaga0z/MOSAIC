@@ -1,1 +1,11 @@
+# Paper
 
+This directory contains the manuscript and supplementary material associated with the MOSAIC molecular storage architecture.
+
+## Files
+
+- `MOSAICITMBMC.pdf`
+  Main manuscript submitted to IEEE Transactions on Molecular, Biological, and Multi-Scale Communications (TMBMC).
+
+- `SUPPLEMENTARY_MOSAIC.pdf`
+  Supplementary material including additional figures, degradation experiments, convergence analysis, and extended recovery results.
