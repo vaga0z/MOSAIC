@@ -1,0 +1,6 @@
+numpy
+reedsolo
+biopython
+matplotlib
+pillow
+psutil
